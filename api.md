@@ -121,11 +121,11 @@
 
 - [x] REST
 
-### I need to create a new endpoint for user registration, which type of request should I use?
+### I need to create a new endpoint for user registration, which type of request should I use?:
 
 - ??
 
-### In the URL "https://api.twitter.com/1.1/search/tweet.json", what is the endpoint?
+### In the URL "https://api.twitter.com/1.1/search/tweet.json", what is the endpoint?:
 
 - ??
 
