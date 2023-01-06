@@ -1,1 +1,1 @@
-# Epitech_KytKats
+# Epitech Kyt/Cats
