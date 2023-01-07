@@ -5,59 +5,60 @@
 - [ ] 10 layers
 - [ ] 4 layers
 - [ ] 5 layers
-- [ ] 7 layers
+- [x] 7 layers
 
 ### Who is the creator of PHP?
 
 - [ ] Jack Sparrow
-- [ ] Rasmus Lerdorf
+- [x] Rasmus Lerdorf
 - [ ] TimBerners-Lee
 - [ ] Dennis Ritchie
 
-### When was MS-DOS released?- [ ] 1991
+### When was MS-DOS released?
 
-o 1985- [ ] 1981- [ ] 1980
+- [ ] 1991
+- [ ] 1985
+- [x] 1981
+- [ ] 1980
 
 ### When was the first electronic, Turing-complete device created?
 
 - [ ] 2000
 - [ ] 1945
 - [ ] 1955
-- [ ] 1943
-      The Colossus set of computers were produced from 1943 to 1945.
+- [x] 1943
 
 ### When was the first implementation of Blockchain Technology?
 
-- [ ] 2009
+- [x] 2009
 - [ ] 2008
 - [ ] 2000
 - [ ] 1991
-      Blockchain concept was implemented as a core component of Bitcoin in 2009.
 
 ### Who invented the first version of the SSH protocol?
 
-- [ ] TatuYlonen
+- [x] Tatu Ylonen
 - [ ] Abhay Bhushan
 - [ ] Ted Nelson
-- [ ] MarcCrispin
+- [ ] Marc Crispin
 
 ### Who created the Blu-ray standard?
 
 - [ ] HP
-- [ ] Sony
+- [x] Sony
 - [ ] IBM
 - [ ] Apple
 
 ### Which OS has to be used with openVZ?
 
 - [ ] Linux / macOS / Windows
-- [ ] Linux
+- [x] Linux
 - [ ] macOS
 - [ ] Windows
 
 ### Is DisplayPort able to carry audio?
 
-- [ ] Yes but it depends on design
+- [x] Yes but it depends on design
 - [ ] Yes but it needs an adaptor
 - [ ] Yes
 - [ ] No
@@ -65,50 +66,48 @@ o 1985- [ ] 1981- [ ] 1980
 ### What is FQDN?
 
 - [ ] Fully Qualified Domain hostName
-- [ ] Fully Qualified Domain Name
+- [x] Fully Qualified Domain Name
 - [ ] Fully Qualified Defense Name
 - [ ] Fully Qualified Data Name
 
 ### What was the first laptop released?
 
 - [ ] Epson HX-20
-- [ ] Osborne 1
+- [x] Osborne 1
 - [ ] Macintosh Portable
 - [ ] Bondwell 2
-      The Osborne 1 was the first commercially successful portable microcomputer, released on April 3, 1981, by Osborne Computer Corporation.
 
 ### What is the advantage of thin client?
 
 - [ ] A large internet storage capacity
 - [ ] It doesn't need internet to work
-- [ ] Lower Operation Costs
+- [x] Lower Operation Costs
 - [ ] It doesn't need a monitor
-      A thin client is basically a potato computer connected remotely to a NASA server. Kinda like Shadow.
 
 ### What was the weight of the computer ENIAC?
 
 - [ ] 300kg
 - [ ] 1.5t
-- [ ] 30t
+- [x] 30t
 - [ ] 150kg
 
 ### When was born Alan Turing?
 
-- [ ] 1912
+- [x] 1912
 - [ ] 1981
 - [ ] 1934
 - [ ] 1891
 
 ### Do you need a multiprocessor computer to have a virtual machine?
 
-- [ ] No
+- [x] No
 - [ ] Yes
 - [ ] Maybe
 - [ ] I don't know
 
 ### What logo is used to represent NetBSD?
 
-- [ ] A flag
+- [x] A flag
 - [ ] A fish
 - [ ] A square
 - [ ] A dragonfly
@@ -118,18 +117,18 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] Protect and promote the software's privacy
 - [ ] Protect and promote the freedom to get any software for free
 - [ ] Provide private softwares to other companies
-- [ ] Protect and promote the freedom to study, distribute, create, modify computer software
+- [x] Protect and promote the freedom to study, distribute, create, modify computer software
 
 ### What is the maximum partition size for NTFS?
 
 - [ ] 8TiB
-- [ ] 256TiB
+- [x] 256TiB
 - [ ] 32TiB
 - [ ] 1EiB
 
 ### In which year was the first Playstation made?
 
-- [ ] 1994
+- [x] 1994
 - [ ] 1992
 - [ ] 1990
 - [ ] 1995
@@ -138,13 +137,13 @@ o 1985- [ ] 1981- [ ] 1980
 ### Which type of DNS entry are correct ?
 
 - [ ] OVH entry / Verisign entry
-- [ ] A / AAAA / MX / PTR
+- x ] A / AAAA / MX / PTR
 - [ ] Big entry / Small entry
 - [ ] BTP / ECS / DNSA / AVG
 
 ### What is the OpenBSD mascot?
 
-- [ ] Puffy
+- [x] Puffy
 - [ ] Android
 - [ ] Tux
 - [ ] DeamonBSD
@@ -154,13 +153,13 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] It cannot replace the standard RAM
 - [ ] It improves the memory clock speed to 200 MHz
 - [ ] It is asynchronous
-- [ ] It is coordinated with an externally supplied clock signal
+- [x] It is coordinated with an externally supplied clock signal
 
 ### What is the meaning of TCP?
 
 - [ ] Transit Control Protocol
 - [ ] Transmission Check Protocol
-- [ ] Transmission Control Protocol
+- [x] Transmission Control Protocol
 - [ ] Tranformation Control Protocol
 
 ### What is the standard port for the wake-on-lan service?
@@ -168,25 +167,25 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] 6667
 - [ ] 80
 - [ ] 20
-- [ ] 9
+- [x] 9
 
 ### What is VoIP?
 
 - [ ] Vocal over Internet Protocol
-- [ ] Voice over Internet Protocol
+- [x] Voice over Internet Protocol
 - [ ] Voice over Internet Piracy
 - [ ] Voice on Internet Protocol
 
 ### What does SSH mean?
 
-- [ ] Secure SHell
+- [x] Secure SHell
 - [ ] Secure Shell Host
 - [ ] System Service High
 - [ ] Super Sayian Heaven
 
 ### What does HDMI mean?
 
-- [ ] High-DefinitionMultimediaInterface
+- [x] High-Definition Multimedia Interface
 - [ ] High-Defined Multiplatforme Integrer
 - [ ] High-Definition Multiplatforme Interface
 - [ ] High-Definition Multimedia Interaction
@@ -195,12 +194,12 @@ o 1985- [ ] 1981- [ ] 1980
 
 - [ ] Mac Book Pro
 - [ ] ENIAC
-- [ ] Colossus
+- [x] Colossus
 - [ ] LISA1
 
 ### When was the first USB flash drive invented?
 
-- [ ] 2000
+- [x] 2000
 - [ ] 1998
 - [ ] 1994
 - [ ] 1988
@@ -208,7 +207,7 @@ o 1985- [ ] 1981- [ ] 1980
 ### What does VGA mean?
 
 - [ ] Video Game Analog
-- [ ] Video Graphics Array
+- [x] Video Graphics Array
 - [ ] Visual Graphics Adaptor
 - [ ] Virtual Graphics Accelerator
 
@@ -217,11 +216,11 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] Bjarne Stroustrup
 - [ ] Brendan Eich
 - [ ] Linus Torvalds
-- [ ] RichardStallman
+- [x] Richard Stallman
 
 ### What protocol is used to resolve IP adress host name?
 
-- [ ] DNS
+- [x] DNS
 - [ ] IP
 - [ ] FTP
 - [ ] DHCP
@@ -229,20 +228,20 @@ o 1985- [ ] 1981- [ ] 1980
 ### What is the name of the first game console?
 
 - [ ] Atari 2600
-- [ ] Odyssey
+- [x] Odyssey
 - [ ] Xbox
 - [ ] PS1
 
 ### What was the first smartphone to be sold?
 
-- [ ] IBM Simon
+- [x] IBM Simon
 - [ ] Windows phone 465
 - [ ] Nokia 3310
 - [ ] iPhone
 
 ### When the first smartphone was released?
 
-- [ ] 1994
+- [x] 1994
 - [ ] 2000
 - [ ] 1992
 - [ ] 1990
@@ -251,7 +250,7 @@ o 1985- [ ] 1981- [ ] 1980
 
 - [ ] U.S.A.
 - [ ] China
-- [ ] France
+- [x] France
 - [ ] Russia
 
 ### What does RFC 2324 talk about?
@@ -259,11 +258,11 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] HTTP
 - [ ] Telnet
 - [ ] SSH
-- [ ] Coffee
+- [x] Coffee
 
 ### Which was the first marketed microprocessor?
 
-- [ ] Intel 4004
+- [x] Intel 4004
 - [ ] Intel Celeron
 - [ ] Intel Core i1 1000K
 - [ ] AMD K5 PR75
@@ -273,18 +272,18 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] 29
 - [ ] 15
 - [ ] 21
-- [ ] 19
+- [x] 19
 
 ### What is the last Sega console?
 
-- [ ] Dreamcast
+- [x] Dreamcast
 - [ ] Saturn
 - [ ] S-Gage
 - [ ] Lindbergh
 
 ### What was the first Windows to have Internet Explorer?
 
-- [ ] Windows 95
+- [x] Windows 95
 - [ ] Windows XP
 - [ ] Fedora
 - [ ] Windows 98
@@ -294,11 +293,11 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] 1976
 - [ ] 1973
 - [ ] 1964
-- [ ] 1969
+- [x] 1969
 
 ### Which paradigm describes what the code does step by step?
 
-- [ ] Imperative
+- [x] Imperative
 - [ ] Object-Oriented
 - [ ] Subjunctive
 - [ ] Logical
@@ -307,19 +306,19 @@ o 1985- [ ] 1981- [ ] 1980
 
 - [ ] PHP: Personal Home Page
 - [ ] PHP: Program High Performace
-- [ ] PHP:HypertextPreprocessor
+- [x] PHP: Hypertext Preprocessor
 - [ ] PHP: Hypertext Page
 
 ### How do C# and Java deal with unusued allocated memory ?
 
-- [ ] Garbage collector
+- [x] Garbage collector
 - [ ] Trash can
 - [ ] Processor
 - [ ] Memory pool system
 
 ### What does ACPI stand for ?
 
-- [ ] AdvancedConfigurationandPowerInterface
+- [x] Advanced Configuration and Power Interface
 - [ ] Advanced Computer Passive Initialisation
 - [ ] Armed Canon Plasma Interstellar
 - [ ] Approbation and Classification of Processor Interface
@@ -329,18 +328,18 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] Processor register
 - [ ] Graphical card
 - [ ] RAM
-- [ ] ROM
+- [x] ROM
 
 ### Which of these devices is fully analogic ?
 
 - [ ] DisplayPort
 - [ ] HDMI
-- [ ] VGA
+- [x] VGA
 - [ ] DVI
 
 ### Which protocol can secure a domestic internet connection ?
 
-- [ ] WPA2
+- [x] WPA2
 - [ ] POP3
 - [ ] TCP/IP
 - [ ] FTP
@@ -348,7 +347,7 @@ o 1985- [ ] 1981- [ ] 1980
 ### Which company did the creator of UNIX belong to ?
 
 - [ ] IBM
-- [ ] Bell's Lab (AT&T)
+- [x] Bell's Lab (AT&T)
 - [ ] Apple
 - [ ] Verizon
 
@@ -357,11 +356,11 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] Imperative
 - [ ] Procedural
 - [ ] Object-oriented
-- [ ] Virtualized
+- [x] Virtualized
 
 ### Which corporation created the first microprocessor ?
 
-- [ ] Intel
+- [x] Intel
 - [ ] Microsoft
 - [ ] IBM
 - [ ] AMD
@@ -371,26 +370,26 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] find touchpad trojan horse
 - [ ] fiber to the hometown
 - [ ] fiber to the house
-- [ ] fiber to the home
+- [x] fiber to the home
 
 ### What is the brand of the first mobile phone ?
 
 - [ ] Apple
 - [ ] Samsung
 - [ ] Nokia
-- [ ] Motorola
+- [x] Motorola
 
 ### What does ToIP stand for ?
 
 - [ ] Transmission over Internet Protocol
-- [ ] Telephony over Internet Protocol
+- [x] Telephony over Internet Protocol
 - [ ] Transmission on Internet Protocol
 - [ ] Telephony over Internet Packet
 
 ### What is the port for the http
 
 - [ ] 70
-- [ ] 80
+- [x] 80
 - [ ] 90
 - [ ] 82
 
@@ -399,25 +398,25 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] Apple
 - [ ] Memorex and NeXT
 - [ ] Microsoft and IBM
-- [ ] Philips and Sony
+- [x] Philips and Sony
 
 ### Who is the founder and maker of the Grid Compass ?
 
-- [ ] Bill Moggridge
+- [x] Bill Moggridge
 - [ ] Dave Paulsen
 - [ ] John Ellenby
 - [ ] Gerard Depardie
 
 ### What is the extension for the Perl files ?
 
-- [ ] .pl
+- [x] .pl
 - [ ] .perl
 - [ ] .collier
 - [ ] .perle
 
 ### Which connector supports G-Sync ?
 
-- [ ] DisplayPort
+- [x] DisplayPort
 - [ ] HDMI
 - [ ] VGA
 - [ ] DVI
@@ -426,7 +425,7 @@ o 1985- [ ] 1981- [ ] 1980
 
 - [ ] There were no predecessors of SSH
 - [ ] There were no connection issues
-- [ ] Data was transmitted over cleartext
+- [x] Data was transmitted over cleartext
 - [ ] There were no passwords.
 
 ### What is correct about the ping ?
@@ -434,12 +433,12 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] The ping describes the speed of the bandwidth
 - [ ] Ping... Pong.
 - [ ] The more the ping is far from zero, the better it is.
-- [ ] The more the ping is close to zero, the better it is.
+- [x] The more the ping is close to zero, the better it is.
 
 ### What does www stands for ?
 
 - [ ] Web wasabi world
-- [ ] World wide web
+- [x] World wide web
 - [ ] Wide web world
 - [ ] Web war song
 
@@ -448,26 +447,26 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] 1981
 - [ ] 1891
 - [ ] 1934
-- [ ] 1912
+- [x] 1912
 
 ### When was the ENIAC formally dedicated ?
 
 - [ ] 1972
 - [ ] 1943
 - [ ] 1943
-- [ ] 1946
+- [x] 1946
 
 ### What king of encryption is used by SSH ?
 
 - [ ] Symmetric
 - [ ] Perpendicular
 - [ ] Parallel
-- [ ] Asymmetric
+- [x] Asymmetric
 
 ### What was the first meaning for the acronym PHP?
 
 - [ ] elePHPant
-- [ ] Personal HomePage
+- [x] Personal HomePage
 - [ ] PHP: Hypertext Preprocessor
 - [ ] Personnalised Hat Production
 
@@ -475,13 +474,13 @@ o 1985- [ ] 1981- [ ] 1980
 
 - [ ] 1971
 - [ ] 1989
-- [ ] 1981
+- [x] 1981
 - [ ] 1979
 
 ### What's the name of the UNIX creator?
 
 - [ ] Mark Shuttleworth
-- [ ] KennethThompson
+- [x] KennethThompson
 - [ ] Linus Torvalds
 - [ ] Bill Gates
 
@@ -490,11 +489,11 @@ o 1985- [ ] 1981- [ ] 1980
 - [ ] 4MB
 - [ ] 6MB
 - [ ] 8MB
-- [ ] 4thatcanbeextendedto8MB
+- [x] 4 that can be extended to 8MB
 
 ### Which of these languages does not use a virtual machin at its execution?
 
 - [ ] Elixir
-- [ ] Python
+- [x] Python
 - [ ] Erlang
 - [ ] Java
