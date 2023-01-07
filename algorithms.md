@@ -20,7 +20,6 @@
 - [x] dynamic programming uses the answers of previous sub problems
 - [ ] dynamic programming solves each subproblems independently
 
-
 ### What is the major inconvenient of a greedy algorithm?:
 
 - [x] it doesn’t always provide the globally optimum solution
@@ -99,7 +98,6 @@
 - [x] some algorithms are better than others even if they produce equal results
 - [ ] the outputs of an algorithm is independent from the input
 
-
 ### Which statement could define the “dynamic programming” paradigm ?
 
 - [ ] Using some shortcuts to obtain the solution of the main problem
@@ -122,7 +120,6 @@
 
 - [x] it simplifies the analysis of algorithm efficiency
 
-
 ### Which statement could define the “divide and conquer” paradigm ?
 
 - [x] recursively combining results of independent subproblems to obtain the solution of the main problem
@@ -137,7 +134,6 @@
 ### What generally allows merge sort compared to selection sort ?
 
 - [x] it sorts faster
-
 
 ### What tool allows to “observe” the possibilities of events ?
 
