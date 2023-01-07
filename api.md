@@ -121,13 +121,6 @@
 
 - [x] REST
 
-### I need to create a new endpoint for user registration, which type of request should I use?:
-
-- ??
-
-### In the URL "https://api.twitter.com/1.1/search/tweet.json", what is the endpoint?:
-
-- ??
 
 ### An API can consume data from another API.:
 
@@ -190,14 +183,6 @@
 
 - [x] 403 Forbidden
 
-### Which architectural style breaks the functionnality into smaller fragments?:
-
-- ??
-
-### What can developers create with Google Maps APIs gaming offering?:
-
-- ??
-
 ### Which API design is the heaviest?:
 
 - [x] SOAP
@@ -218,14 +203,6 @@
 
 - [x] It is discoverable via simple find mechanism (not sure)
 
-### What is a behavioral characteristic of web services?:
-
-- ??
-
-### New technologies (like GraphQL) can empower API consumers to do things previously unimagined.:
-
-- ??
-
 ### Which API deisgn is more flexible?:
 
 - [x] REST
@@ -233,7 +210,3 @@
 ### SOAP relies solely on XML to provide messaging services.:
 
 - [x] True
-
-### My API is actually public and I want to make it private, how do I do this?:
-
-- ??

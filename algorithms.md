@@ -13,10 +13,6 @@
 - [x] It has a reasonable complexity
 - [x] It is easy to implement
 
-### When the algorithm’s complexity is increasing, how is the algorithm’s efficiency evolving?:
-
-- ??
-
 ### Which statement is correct?:
 
 - [ ] dynamic programming is less efficient than divide and conquer
@@ -24,9 +20,6 @@
 - [x] dynamic programming uses the answers of previous sub problems
 - [ ] dynamic programming solves each subproblems independently
 
-### What makes a good algorithm?:
-
-- ??
 
 ### What is the major inconvenient of a greedy algorithm?:
 
@@ -106,9 +99,6 @@
 - [x] some algorithms are better than others even if they produce equal results
 - [ ] the outputs of an algorithm is independent from the input
 
-### What gives you an approximation of how fast or slow an algorithm is going to be?
-
-- ??
 
 ### Which statement could define the “dynamic programming” paradigm ?
 
@@ -132,9 +122,6 @@
 
 - [x] it simplifies the analysis of algorithm efficiency
 
-### Which data element do you easily get from queues?
-
-- ??
 
 ### Which statement could define the “divide and conquer” paradigm ?
 
@@ -151,9 +138,6 @@
 
 - [x] it sorts faster
 
-### Which case is typically looked when solving a problem ?
-
-- ??
 
 ### What tool allows to “observe” the possibilities of events ?
 
