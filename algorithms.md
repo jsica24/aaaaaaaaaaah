@@ -99,8 +99,12 @@
 - [x] some algorithms are better than others even if they produce equal results
 - [ ] the outputs of an algorithm is independent from the input
 
+<<<<<<< HEAD
 
 #### Q. Which statement could define the “dynamic programming” paradigm ?
+=======
+### Which statement could define the “dynamic programming” paradigm ?
+>>>>>>> ea8db81a1d546967e4c2d768d7235f1f47e965f3
 
 - [ ] Using some shortcuts to obtain the solution of the main problem
 - [x] recursively combining results of independent subproblems to obtain the solution of the main problem
@@ -122,8 +126,12 @@
 
 - [x] it simplifies the analysis of algorithm efficiency
 
+<<<<<<< HEAD
 
 #### Q. Which statement could define the “divide and conquer” paradigm ?
+=======
+### Which statement could define the “divide and conquer” paradigm ?
+>>>>>>> ea8db81a1d546967e4c2d768d7235f1f47e965f3
 
 - [x] recursively combining results of independent subproblems to obtain the solution of the main problem
 - [ ] replacing original input by a smaller one, find a solution, then transform it to obtain the solution of the main problem
@@ -138,8 +146,12 @@
 
 - [x] it sorts faster
 
+<<<<<<< HEAD
 
 #### Q. What tool allows to “observe” the possibilities of events ?
+=======
+### What tool allows to “observe” the possibilities of events ?
+>>>>>>> ea8db81a1d546967e4c2d768d7235f1f47e965f3
 
 - [x] a tree
 
