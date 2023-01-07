@@ -121,7 +121,6 @@
 
 - [x] REST
 
-
 #### Q. An API can consume data from another API.:
 
 - [x] True
