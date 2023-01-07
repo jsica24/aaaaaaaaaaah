@@ -8,6 +8,8 @@
 
 This directory contains some questions and answers of the Kyt/Cats project.
 
+#### :star: Please star the repo if you found it useful!
+
 > **The answers are not all good, but they are the ones I found. If you have a better answer, feel free to open an issue or a pull request.**
 
 > **Also, if you see a problem, have some new questions or answers, feel free to open an [issue](https://github.com/Studio-17/Epitech-KytCats/issues) or a [pull request](https://github.com/Studio-17/Epitech-KytCats/pulls).**
