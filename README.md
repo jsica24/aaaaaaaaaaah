@@ -14,8 +14,6 @@ This directory contains some questions and answers of the Kyt/Cats project.
 
 > **Also, if you see a problem, have some new questions or answers, feel free to open an [issue](https://github.com/Studio-17/Epitech-KytCats/issues) or a [pull request](https://github.com/Studio-17/Epitech-KytCats/pulls).**
 
-## Kyt/Cats
-
 <br>
 
 <table align="center">
