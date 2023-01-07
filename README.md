@@ -6,7 +6,7 @@
 
 </div>
 
-This directory contains some questions and answers of the Kyt/Cats project.
+**This directory contains some questions and answers of the Kyt/Cats project.**
 
 #### :star: Please star the repo if you found it useful!
 
